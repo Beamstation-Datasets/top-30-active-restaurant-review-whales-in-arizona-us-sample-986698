@@ -9,9 +9,9 @@
 | Dataset ID | `986698` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 831 records |
-| Free sample size | 21 records (2.53%) |
-| Last export | 2026-03-31T23:22:29.297168+00:00 |
+| Full dataset size | 217 records |
+| Free sample size | 21 records (9.68%) |
+| Last export | 2026-04-15T00:54:25.978321+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-arizona-us-sample-986698/releases/download/sample-latest/beamstation_986698_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample

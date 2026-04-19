@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9ac2dad7-b6eb-471e-8a59-312c6a534db8",
+  "export_job_id": "fb813849-d50c-470b-9ff4-5bdee65d7295",
   "id_short": 986698,
-  "published_at": "2026-04-16T07:29:00Z",
+  "published_at": "2026-04-19T07:10:12Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-arizona-us-sample-986698",
   "sample_asset_name": "beamstation_986698_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/986698/beamstation_986698_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_records": 21,
   "sample_sha256": "77e876aea943a6691a913b48a98183e21ea3a27293b178c70e3241764a612c36",
   "sample_size_bytes": 95741,
-  "total_records": 831
+  "total_records": 217
 }
